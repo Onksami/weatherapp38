@@ -1,0 +1,50 @@
+body{
+    background-image: url('sky.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    
+    height: auto;
+    margin: auto;
+    margin-top: 20vh;
+    justify-content: center;
+    border-style: solid;
+}
+#city {
+    /* border-style: solid; */
+}
+
+#date{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#date:hover{
+    font-size: 25px;
+    transition: 0.4s;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#screen{
+    margin: auto;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+#info{
+    text-align: center;
+    margin-top: 10px;
+    
+}
+#days {
+   
+}
+#select {
+    width: 100%;
+    opacity: 0.8;
+    background: none;
+}
